@@ -11,7 +11,7 @@ Patricialvarenga/README.md
 
 Me chamo Patricia Alvarenga, sou de Belo Horizonte, Brasil, me descobri apaixonada por novos desafios! Por isso, sou uma nutricionista em transição de carreira para área de tecnologia, aprender a aprender é o lema da minha vida!  
 
-- 👨🏽‍💻 Estou finalizando o curso de Desenvolvimento Web na Trybe;
+- 👨🏽‍💻 Curso de Desenvolvimento Web na Trybe, finalizado em Maio de 2022;
 - 🤔 Meus hobbies são cozinhar, maratonar séries e estar perto das pessoas que amo;
 - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
 
